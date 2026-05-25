@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="150dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:translateY="-4" android:translateX="-1">
+        <!-- Base de Checkmark (Prata/Cinza) -->
+        <path
+            android:fillColor="#9CA3AF"
+            android:pathData="M 15,65 L 40,90 L 40,70 L 25,55 Z" />
+
+        <!-- Seta de Crescimento (Verde Esmeralda Vibrante) -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M 40,90 L 75,55 L 90,60 L 95,25 L 60,30 L 75,35 L 40,70 Z" />
+
+        <!-- Pilha de Moedas 1 (Esquerda) -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M 50,88 L 56,88 L 56,65 L 50,65 Z" />
+
+        <!-- Pilha de Moedas 2 (Centro) -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M 64,88 L 70,88 L 70,52 L 64,52 Z" />
+
+        <!-- Pilha de Moedas 3 (Direita) -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M 78,88 L 84,88 L 84,39 L 78,39 Z" />
+    </group>
+</vector>

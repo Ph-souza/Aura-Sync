@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406685307798",
+    "project_id": "aura-sync-497100",
+    "storage_bucket": "aura-sync-497100.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406685307798:android:05e7d50599fb889c1203b7",
+        "android_client_info": {
+          "package_name": "com.aistudio.organizadorenteligente.oetfqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEWnazCF4oAWfIw02Jdd7bnMgbISWwwWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

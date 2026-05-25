@@ -1,0 +1,6 @@
+{
+  "name": "Aura Sync",
+  "description": "Powered by Nexus Flow",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
